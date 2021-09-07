@@ -1,3 +1,21 @@
+.navbar {
+    left: 0;
+    justify-self: center;
+    width: 100%;
+}
+
+.navbar ul li {
+    margin: 0 20px;
+}
+
+.slide {
+    background-position: right;
+}
+
+.slide-data {
+    right: 0;
+}
+
 #footnav {
     grid-template-areas: 
     'logo' 
